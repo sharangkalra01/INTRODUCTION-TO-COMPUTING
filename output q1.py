@@ -1,9 +1,10 @@
-Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-========= RESTART: C:\Users\HP\Desktop\SHARANG 21103012\PYTHON\ques1.py ========
-enter the first number :2
-enter the second number :3
-enter the third number :4
-the average of three number is 3.0
->>> 
+
+=== RESTART: C:\Users\Shara\OneDrive\Desktop\SHARANG 21103012\Python\ques1.py ==
+<A>THE LENGTH OF STRING IS 35
+<B>THE REVERSED STRING IS  egaugnal evitisnes esac a si nohtyP
+<E>THE INDEX OF SUBSTRING a is  10
+<F>THE ORIGINAL STRING AFTER REMOVING WHITESPACES IS Pythonisacasesensitivelanguage
+
+
